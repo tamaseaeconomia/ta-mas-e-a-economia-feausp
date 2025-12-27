@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Tá, mas e a economia?",
+    "section": "",
+    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.\nA iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+  },
+  {
+    "objectID": "sobre.html#sobre-o-projeto",
+    "href": "sobre.html#sobre-o-projeto",
+    "title": "Tá, mas e a economia?",
+    "section": "",
+    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.\nA iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+  },
+  {
+    "objectID": "sobre.html#nossa-equipe",
+    "href": "sobre.html#nossa-equipe",
+    "title": "Tá, mas e a economia?",
+    "section": "Nossa equipe",
+    "text": "Nossa equipe\n\n\n\n\n\nNome da Pessoa 1\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 2\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\n\n\n\n\nNome da Pessoa 3\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\n\n\nNome da Pessoa 4\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R."
+  },
+  {
+    "objectID": "indice.html",
+    "href": "indice.html",
+    "title": "Índices",
+    "section": "",
+    "text": "ibc-br;desemprego; piri poro"
+  },
+  {
+    "objectID": "indice.html#atualizações-semanais-dos-seguintes-indices",
+    "href": "indice.html#atualizações-semanais-dos-seguintes-indices",
+    "title": "Índices",
+    "section": "",
+    "text": "ibc-br;desemprego; piri poro"
+  },
+  {
+    "objectID": "indice.html#últimas-notícias-de-macroeconomia",
+    "href": "indice.html#últimas-notícias-de-macroeconomia",
+    "title": "Índices",
+    "section": "Últimas Notícias de Macroeconomia",
+    "text": "Últimas Notícias de Macroeconomia\n\nCongresso pauta Orçamento de 2026\nResumo curto da notícia.\n\n\nInflação desacelera no último trimestre\nResumo curto da notícia."
+  },
+  {
+    "objectID": "email.html",
+    "href": "email.html",
+    "title": "Receba no E-mail",
+    "section": "",
+    "text": "Carregando…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "artigos/artigo1.html",
+    "href": "artigos/artigo1.html",
+    "title": "Título do Artigo 1",
+    "section": "",
+    "text": "Este é o texto completo do artigo. Aqui você desenvolve a ideia com mais profundidade, dados, gráficos e referências."
+  },
+  {
+    "objectID": "artigos/artigo1.html#introdução",
+    "href": "artigos/artigo1.html#introdução",
+    "title": "Título do Artigo 1",
+    "section": "",
+    "text": "Este é o texto completo do artigo. Aqui você desenvolve a ideia com mais profundidade, dados, gráficos e referências."
+  },
+  {
+    "objectID": "artigos/artigo1.html#desenvolvimento",
+    "href": "artigos/artigo1.html#desenvolvimento",
+    "title": "Título do Artigo 1",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento\nTexto longo, análises, gráficos em R, tabelas, etc."
+  },
+  {
+    "objectID": "artigos/artigo1.html#conclusão",
+    "href": "artigos/artigo1.html#conclusão",
+    "title": "Título do Artigo 1",
+    "section": "Conclusão",
+    "text": "Conclusão\nSíntese dos resultados e implicações do estudo."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tá, mas e a economia?",
+    "section": "",
+    "text": "texto sobre o que é o projeto"
+  },
+  {
+    "objectID": "newsletter.html",
+    "href": "newsletter.html",
+    "title": "Newsletter",
+    "section": "",
+    "text": "Aqui você encontra resumos dos artigos produzidos pelo projeto. Clique em um artigo para acessar o conteúdo completo.\nOutro exemplo para mostrar o resumo dos textos"
+  },
+  {
+    "objectID": "newsletter.html#últimos-artigos",
+    "href": "newsletter.html#últimos-artigos",
+    "title": "Newsletter",
+    "section": "Últimos artigos",
+    "text": "Últimos artigos\nAqui você encontra resumos dos artigos do projeto. Clique em um artigo para ler o texto completo.\n\n\n\n\n\n\n\nTítulo do artigo\n18 de setembro de 2025\nResumo do artigo. Aqui entra um texto curto descrevendo o conteúdo, os objetivos do texto e por que ele é relevante.\n\n\n\n\n\n\n\n\n\n\nTítulo do artigo\n18 de novembro de 2025\nResumo do artigo. Texto genérico para visualização.\n\n\n\n\nOutra opção\n\n\n\n\n\nTítulo do Artigo\n16 de fevereiro de 2016\nResumo do texto aqui…\n\n\n\n\noutro estilo\n\n\n\n\n\n\nTítulo do Artigo\nAqui entra o resumo do seu texto. Ele ocupa o centro e se ajusta automaticamente ao espaço disponível.\n\n\nSeu Nome\n27 de Dezembro, 2025"
+  }
+]

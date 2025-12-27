@@ -1,5 +1,52 @@
----
-title: "Quem somos?"
----
+## Sobre o projeto
 
-Este site foi desenvolvido como projeto acadêmico utilizando **Quarto** e **R**.
+Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.\
+A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica.
+
+------------------------------------------------------------------------
+
+## Nossa equipe
+
+::::::: columns
+:::: {.column width="50%"}
+::: membro
+![](imagens/equipe/foto.png)
+
+### Nome da Pessoa 1
+
+Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
+:::
+::::
+
+:::: {.column width="50%"}
+::: membro
+![](imagens/equipe/foto.png)
+
+### Nome da Pessoa 2
+
+Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
+:::
+::::
+:::::::
+
+::::::: columns
+:::: {.column width="50%"}
+::: membro
+![](imagens/equipe/foto.png)
+
+### Nome da Pessoa 3
+
+Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
+:::
+::::
+
+:::: {.column width="50%"}
+::: membro
+![](imagens/equipe/foto.png)
+
+### Nome da Pessoa 4
+
+Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
+:::
+::::
+:::::::

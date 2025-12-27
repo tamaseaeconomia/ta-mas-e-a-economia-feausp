@@ -2,24 +2,125 @@
 title: "Newsletter"
 ---
 
-## Newsletter
+Aqui você encontra resumos dos artigos produzidos pelo projeto. Clique em um artigo para acessar o conteúdo completo.
 
-resumo sobre o que é
+------------------------------------------------------------------------
 
-### Seções
+::: newsletter-item
+[![](imagens/pib.png)](artigos/artigo1.qmd)
 
-::::: grid
-::: card
-### 📊 Pib
+### [Título do Artigo 1](artigos/artigo1.qmd)
 
-Análises sobre PIB, inflação e política fiscal.\
-[Leia mais →](macroeconomia.qmd)
+**18 de janeiro de 2026**\
+*Macroeconomia · Política Econômica*
+
+Resumo breve do artigo. Aqui entra uma descrição curta do conteúdo, apenas para despertar o interesse do leitor e contextualizar o tema.
 :::
 
-::: card
-### 🏛️ Política publica
+------------------------------------------------------------------------
 
-Decisões do Congresso e impacto econômico.\
-[Leia mais →](politica.qmd)
+::: newsletter-item
+[![](imagens/inflação.jpg)](artigos/artigo2.qmd)
+
+### [Título do Artigo 2](artigos/artigo2.qmd)
+
+**05 de outubro de 2025**\
+*Educação · Políticas Públicas*
+
+Resumo breve do segundo artigo, destacando o tema central, a motivação da análise e o que o leitor vai encontrar.
+:::
+
+------------------------------------------------------------------------
+
+***Outro exemplo para mostrar o resumo dos textos***
+
+## Últimos artigos
+
+Aqui você encontra resumos dos artigos do projeto. Clique em um artigo para ler o texto completo.
+
+------------------------------------------------------------------------
+
+:::::: newsletter-item
+::::: columns
+::: {.column width="30%"}
+![](imagens/pib.png)
+:::
+
+::: {.column width="70%"}
+### Título do artigo
+
+**18 de setembro de 2025**
+
+Resumo do artigo. Aqui entra um texto curto descrevendo o conteúdo, os objetivos do texto e por que ele é relevante.
 :::
 :::::
+::::::
+
+:::::: newsletter-item
+::::: columns
+::: {.column width="30%"}
+![](imagens/inflação.jpg)
+:::
+
+::: {.column width="70%"}
+### Título do artigo
+
+**18 de novembro de 2025**
+
+Resumo do artigo. Texto genérico para visualização.
+:::
+:::::
+::::::
+
+***Outra opção***
+
+::::: {.columns .v-center}
+::: {.column width="40%"}
+![](imagens/inflação.jpg)
+:::
+
+::: {.column width="60%"}
+### Título do Artigo
+
+**16 de fevereiro de 2016**
+
+Resumo do texto aqui...
+:::
+:::::
+
+```{=html}
+<style>
+  .column {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  /* Adiciona espaço extra especificamente entre imagem e texto */
+  .row.align-items-center .col-md-8 {
+    padding-left: 30px; 
+  }
+</style>
+```
+
+***outro estilo***
+
+::::::: newsletter-container
+:::::: newsletter-item
+::: newsletter-image
+
+![](imagens/pib.png)
+:::
+
+::: newsletter-content
+### [Título do Artigo](artigos/artigo1.qmd)
+
+Aqui entra o resumo do seu texto. Ele ocupa o centro e se ajusta automaticamente ao espaço disponível.
+:::
+
+::: newsletter-meta
+**Seu Nome**
+
+*27 de Dezembro, 2025*
+:::
+::::::
+:::::::
