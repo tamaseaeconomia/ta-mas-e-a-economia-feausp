@@ -1,0 +1,12 @@
+---
+title: "Após fraudes bilionárias, Fazenda planeja novas frentes contra devedores"
+subtitle: fraudes
+author:
+  - João
+  - Maria
+date: 2025-12-30
+description: A desarticulação de esquemas bilionários de fraude fiscal nos últimos meses passou a orientar uma nova fase de atuação do governo federal a partir de 2026, voltada ao enfrentamento de grandes devedores estruturados e à repressão a práticas ilícitas que distorcem mercados e comprometem a arrecadação. 
+format:
+  html:
+    toc: false
+---

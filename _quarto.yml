@@ -11,7 +11,7 @@ website:
       - text: "Início"
         href: index.qmd
       - text: "Newsletter"
-        href: newsletter.qmd
+        file: Newsletter/indexNe.qmd
       - text: "Índices"
         href: indice.qmd
       - text: "Quem somos?"
@@ -28,7 +28,12 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
+    lang: pt-BR
+    date-format: "DD/MM/YYYY"
+    labels:
+      author: Autor
+      published: Publicado em
 
 editor: visual
 

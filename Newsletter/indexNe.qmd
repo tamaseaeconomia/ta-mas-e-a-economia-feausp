@@ -1,0 +1,9 @@
+---
+title: "Newsletter"
+subtitle: "explicação..."
+listing:
+  contents: "*.qmd"
+format:
+  html:
+    page-layout: full
+---

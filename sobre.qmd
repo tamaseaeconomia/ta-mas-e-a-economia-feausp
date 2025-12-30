@@ -50,3 +50,41 @@ Estudante de economia com foco em macroeconomia, finanças públicas e visualiza
 :::
 ::::
 :::::::
+
+::: grid
+:::g-col-4
+![](imagens/equipe/foto.png)
+
+<h4>**Pessoa 1**</h4>
+
+Descrição.
+:::
+
+:::g-col-4
+![](imagens/equipe/foto.png)
+
+<h4>**Pessoa 2**</h4>
+
+Descrição.
+
+:::
+
+:::g-col-4
+![](imagens/equipe/foto.png)
+
+<h4>**Pessoa 3**</h4>
+
+Descrição.
+
+:::
+
+:::g-col-4
+![](imagens/equipe/foto.png)
+
+<h4>**Pessoa 4**</h4>
+
+Descrição.
+
+:::
+
+:::
