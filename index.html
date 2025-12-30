@@ -34,7 +34,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -71,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
+<link rel="stylesheet" href="styles.css">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -297,63 +297,44 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-
+<div class="quarto-about-trestles column-page">
+  <div class="about-entity">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Início</h1>
 </div>
-
-
-
 <div class="quarto-title-meta column-page">
-
-    
-  
-    
   </div>
-  
-
-
 </header>
+  </div>
+  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 
-
-<div class="container">
-<p>::: {.row align-items-start}</p>
-<!-- COLUNA ESQUERDA: FUNDADORES -->
-<div class="col-md-6">
-<p>::: {.row text-center}</p>
-<div class="col-md-6">
-<p><img src="pessoa1.jpg" alt="Pessoa 1" class="founder-photo"></p>
-<p class="founder-desc">
-</p><p><strong>Nome da Pessoa 1</strong><br> Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.</p>
-<p></p>
+<div class="home-layout">
+<section id="fundadoras" class="level3 founders">
+<h3 data-anchor-id="fundadoras">Fundadoras</h3>
+<div class="founder">
+<p><img src="pessoa1.png" alt="Pessoa 1"></p>
+<p><strong>Nome da Pessoa 1</strong><br>
+Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.</p>
 </div>
-<div class="col-md-6">
-<p><img src="pessoa1.jpg" alt="Pessoa 2" class="founder-photo"></p>
-<p class="founder-desc">
-</p><p><strong>Nome da Pessoa 2</strong><br> Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.</p>
-<p></p>
+<div class="founder">
+<p><img src="pessoa2.png" alt="Pessoa 2"></p>
+<p><strong>Nome da Pessoa 2</strong><br>
+Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.</p>
 </div>
-</div>
-</div>
-<!-- COLUNA DIREITA: TEXTO DO PROJETO -->
-<section id="sobre-o-projeto" class="level2 col-md-6">
-<h2 class="anchored" data-anchor-id="sobre-o-projeto">Sobre o projeto</h2>
-<p class="project-text">
-</p><p>Este projeto tem como objetivo produzir análises claras e acessíveis sobre economia, políticas públicas e indicadores sociais, contribuindo para o debate público e a difusão de conhecimento baseado em dados.</p>
-<p></p>
-<p class="project-text">
-</p><p>A iniciativa reúne pesquisa acadêmica, análise empírica e comunicação científica, buscando aproximar a produção universitária do público em geral.</p>
-<p></p>
 </section>
-<div class=":::">
-
-
+<section id="sobre-o-projeto" class="level2 project-text">
+<h2 data-anchor-id="sobre-o-projeto">Sobre o projeto</h2>
+<p>Texto explicativo do projeto em si.<br>
+Aqui você descreve o objetivo, a motivação, o público-alvo e o tipo de conteúdo produzido.</p>
+<p>O projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público.</p>
+</section>
 </div>
 
-</main> <!-- /main -->
+
+</main></div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -369,13 +350,6 @@ ul.task-list li input[type="checkbox"] {
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
