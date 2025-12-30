@@ -426,7 +426,7 @@ Aqui você descreve o objetivo, a motivação, o público-alvo e o tipo de conte
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/tamaseaeconomia\.github\.io\/ta-mas-e-a-economia-feausp\/");
+        var filterRegex = new RegExp("https:\/\/tamaseaeconomia\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
