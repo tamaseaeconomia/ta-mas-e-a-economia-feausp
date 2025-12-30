@@ -13,7 +13,7 @@ website:
       - text: "Newsletter"
         file: Newsletter/indexNe.qmd
       - text: "Índices"
-        href: indice.qmd
+        file: indices/index.qmd
       - text: "Quem somos?"
         href: sobre.qmd
       - text: "Receba no email"
