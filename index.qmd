@@ -19,7 +19,7 @@ header-includes: >
 :::
 
 ::: founder
-<img src="pessoa2.jpg" class="founder-img">
+<img src="pessoa1.jpg" class="founder-img">
 **Nome da Pessoa 2** Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
 :::
 :::
