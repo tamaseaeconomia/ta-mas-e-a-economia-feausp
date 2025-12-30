@@ -203,6 +203,13 @@
   color: #777;
 }
 
+.indicator-item {
+  width: auto;        /* NUNCA 100% */
+  max-width: 100%;
+  display: block;     /* ok */
+}
+
+
 /* Responsivo */
 @media (max-width: 768px) {
   .indicator-item {
