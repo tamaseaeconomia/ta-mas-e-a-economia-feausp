@@ -86,16 +86,16 @@
   {
     "objectID": "indices/index.html",
     "href": "indices/index.html",
-    "title": "Tá, mas e a economia?",
+    "title": "Índices Econômicos",
     "section": "",
-    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
+    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n::: {.col-md-3 indicator-item}\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n::: {.col-md-3 indicator-item}\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n::: {.col-md-3 indicator-item}\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025\n\n:::\n:::\n::::"
   },
   {
     "objectID": "indices/index.html#painel-de-indicadores",
     "href": "indices/index.html#painel-de-indicadores",
-    "title": "Tá, mas e a economia?",
+    "title": "Índices Econômicos",
     "section": "",
-    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
+    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n::: {.col-md-3 indicator-item}\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n::: {.col-md-3 indicator-item}\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n::: {.col-md-3 indicator-item}\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025\n\n:::\n:::\n::::"
   },
   {
     "objectID": "Newsletter/indexNe.html",

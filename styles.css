@@ -256,11 +256,3 @@
     padding-left: 0;
   }
 }
-
-/*vendo um trem*/
-
-footer.footer {
-  background-color: red !important;
-  display: block !important;
-  min-height: 50px;
-}
