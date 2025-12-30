@@ -1,11 +1,59 @@
 ---
-title: "Tá, mas e a economia?"
+title: "Início"
+format:
+  html:
+    page-layout: full
+    toc: false
+execute:
+  echo: false
 ---
 
-![](imagens/macro.jpg)
+:::::: container
+::: {.row align-items-start}
 
-texto sobre o que é o projeto
+<!-- COLUNA ESQUERDA: FUNDADORES -->
 
-## 
+::::: col-md-6
+::: {.row text-center}
 
-olaaaaaaaaaaaaaaaaaaaaaa
+::: col-md-6
+<img src="pessoa1.jpg" alt="Pessoa 1" class="founder-photo"/>
+
+<p class="founder-desc">
+
+<strong>Nome da Pessoa 1</strong><br> Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.
+
+</p>
+:::
+
+::: col-md-6
+<img src="pessoa1.jpg" alt="Pessoa 2" class="founder-photo"/>
+
+<p class="founder-desc">
+
+<strong>Nome da Pessoa 2</strong><br> Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
+
+</p>
+:::
+:::::
+::::::
+
+<!-- COLUNA DIREITA: TEXTO DO PROJETO -->
+
+::: col-md-6
+## Sobre o projeto
+
+<p class="project-text">
+
+Este projeto tem como objetivo produzir análises claras e acessíveis sobre economia, políticas públicas e indicadores sociais, contribuindo para o debate público e a difusão de conhecimento baseado em dados.
+
+</p>
+
+<p class="project-text">
+
+A iniciativa reúne pesquisa acadêmica, análise empírica e comunicação científica, buscando aproximar a produção universitária do público em geral.
+
+</p>
+:::
+
+::: :::

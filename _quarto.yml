@@ -21,6 +21,9 @@ website:
       - icon: instagram
         href: https://www.instagram.com/tamaseaeconomia
         aria-label: Instagram
+   
+    page-footer:
+      left: "Feito no [Quarto](https://quarto.org/) pelo [membro x](https://linkedin.com/)"
 
 format:
   html:

@@ -1,63 +1,15 @@
 ## Sobre o projeto
 
-Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.\
-A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica.
+   Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R.
+   A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica.
 
 ------------------------------------------------------------------------
 
 ## Nossa equipe
 
-::::::: columns
-:::: {.column width="50%"}
-::: membro
-![](imagens/equipe/foto.png)
-
-### Nome da Pessoa 1
-
-Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-:::
-::::
-
-:::: {.column width="50%"}
-::: membro
-![](imagens/equipe/foto.png)
-
-### Nome da Pessoa 2
-
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
-:::
-::::
-:::::::
-
-::::::: columns
-:::: {.column width="50%"}
-::: membro
-![](imagens/equipe/foto.png)
-
-### Nome da Pessoa 3
-
-Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
-:::
-::::
-
-:::: {.column width="50%"}
-::: membro
-![](imagens/equipe/foto.png)
-
-### Nome da Pessoa 4
-
-Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
-:::
-::::
-:::::::
-
-::: grid
-:::g-col-4
-![](imagens/equipe/foto.png)
-
 <h4>**Pessoa 1**</h4>
 
-Descrição.
+Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
 :::
 
 :::g-col-4
@@ -65,7 +17,7 @@ Descrição.
 
 <h4>**Pessoa 2**</h4>
 
-Descrição.
+Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
 
 :::
 
@@ -74,7 +26,7 @@ Descrição.
 
 <h4>**Pessoa 3**</h4>
 
-Descrição.
+Estudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.
 
 :::
 
@@ -83,7 +35,7 @@ Descrição.
 
 <h4>**Pessoa 4**</h4>
 
-Descrição.
+Economista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.
 
 :::
 
