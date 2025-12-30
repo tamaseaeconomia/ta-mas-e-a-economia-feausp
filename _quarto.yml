@@ -23,6 +23,8 @@ website:
         aria-label: Instagram
     page-footer:
       left: "Feito no [Quarto](https://quarto.org/) pelo [membro x](https://linkedin.com/)"
+      border: true
+      background: "#f8f9fa"
 
 format:
   html:
