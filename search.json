@@ -30,16 +30,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Tá, mas e a economia?",
+    "title": "Início",
     "section": "",
-    "text": "texto sobre o que é o projeto"
+    "text": "::: {.row align-items-start}\n\n\n::: {.row text-center}\n\n\n\nNome da Pessoa 1 Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.\n\n\n\n\n\nNome da Pessoa 2 Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto."
   },
   {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Tá, mas e a economia?",
-    "section": "",
-    "text": "olaaaaaaaaaaaaaaaaaaaaaa"
+    "objectID": "index.html#sobre-o-projeto",
+    "href": "index.html#sobre-o-projeto",
+    "title": "Início",
+    "section": "Sobre o projeto",
+    "text": "Sobre o projeto\n\nEste projeto tem como objetivo produzir análises claras e acessíveis sobre economia, políticas públicas e indicadores sociais, contribuindo para o debate público e a difusão de conhecimento baseado em dados.\n\n\nA iniciativa reúne pesquisa acadêmica, análise empírica e comunicação científica, buscando aproximar a produção universitária do público em geral."
   },
   {
     "objectID": "artigos/artigo1.html",
