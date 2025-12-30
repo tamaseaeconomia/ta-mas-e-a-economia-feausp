@@ -150,3 +150,62 @@
     margin-top: 1.5rem;
   }
 }
+
+/* Painel geral */
+.indicator-panel {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Cada indicador */
+.indicator-item {
+  padding: 1.5rem 1rem;
+}
+
+/* Círculo do ícone */
+.indicator-circle {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto 0.8rem;
+  background-color: #f2f2f2;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.indicator-circle img {
+  width: 45px;
+  height: auto;
+}
+
+/* Textos */
+.indicator-item h5 {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.indicator-sub {
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 0.3rem;
+}
+
+.indicator-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #ff7a00;
+  margin-bottom: 0.1rem;
+}
+
+.indicator-date {
+  font-size: 0.75rem;
+  color: #777;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .indicator-item {
+    margin-bottom: 1.5rem;
+  }
+}
