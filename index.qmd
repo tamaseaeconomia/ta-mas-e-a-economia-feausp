@@ -5,38 +5,29 @@ format:
     page-layout: full
     toc: false
 
-about:
-  template: trestles
-  image-width: 12em
-  image-shape: rounded
-
 header-includes: >
   <link rel="stylesheet" href="styles.css">
 ---
 
-::::::: home-layout
-::::: founders
+::::::: home-container
+::: left-column
 ### Fundadoras
 
 ::: founder
-<img src="pessoa1.jpg" alt="Pessoa 1"/>
-
-**Nome da Pessoa 1**\
-Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.
+<img src="pessoa1.jpg" class="founder-img">
+**Nome da Pessoa 1** Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.
 :::
 
 ::: founder
-<img src="pessoa1.jpg" alt="Pessoa 2"/>
-
-**Nome da Pessoa 2**\
-Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
+<img src="pessoa2.jpg" class="founder-img">
+**Nome da Pessoa 2** Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.
 :::
-:::::
+:::
 
-::: project-text
+::: right-column
 ## Sobre o projeto
 
-Texto explicativo do projeto em si.\
+Texto explicativo do projeto em si.  
 Aqui você descreve o objetivo, a motivação, o público-alvo e o tipo de conteúdo produzido.
 
 O projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público.

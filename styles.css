@@ -210,45 +210,50 @@
   }
 }
 
-.home-layout {
+/*pagina inicial*/
+/* Container principal em Grid */
+.home-container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 3rem;
-  align-items: start;
+  grid-template-columns: 1fr 2fr; /* Coluna da esquerda menor que a da direita */
+  gap: 50px;                      /* Espaço entre as colunas */
+  margin-top: 30px;
 }
 
-.founders {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  text-align: center;
-}
-
-.founder img {
-  width: 100%;
-  max-width: 180px;
-  margin-bottom: 0.75rem;
-  border-radius: 8px;
+/* Coluna das fundadoras */
+.left-column {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;                      /* Espaço entre a fundadora 1 e 2 */
 }
 
 .founder {
-  font-size: 0.95rem;
-  color: #333;
+  text-align: left;
 }
 
-.project-text {
-  font-size: 1.05rem;
-  line-height: 1.6;
+/* Estilização das imagens */
+.founder-img {
+  width: 150px;                   /* Ajuste o tamanho conforme desejar */
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;             /* Deixa a imagem redonda */
+  margin-bottom: 10px;
+  display: block;
 }
 
-/* MOBILE */
+/* Coluna do texto */
+.right-column {
+  padding-left: 20px;
+  border-left: 1px solid #eee;    /* Opcional: uma linha fina separando */
+}
+
+/* Responsividade para celulares */
 @media (max-width: 768px) {
-  .home-layout {
-    grid-template-columns: 1fr;
+  .home-container {
+    grid-template-columns: 1fr;   /* No celular, vira uma coluna só */
   }
-
-  .founders {
-    grid-template-columns: 1fr;
+  .right-column {
+    border-left: none;
+    padding-left: 0;
   }
 }
 
