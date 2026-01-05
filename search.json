@@ -4,7 +4,7 @@
     "href": "teste222.html",
     "title": "teste222",
     "section": "",
-    "text": "{{&lt; indicador titulo=\"Inflação\" subtitulo=\"IPCA · Mensal\" valor=\"0,18%\" data=\"nov 2025\" icone=\"📉\" &gt;}}\n{{&lt; indicador titulo=\"Inflação\" subtitulo=\"INPC\" valor=\"0,03%\" data=\"nov 2025\" icone=\"📉\" &gt;}}\n{{&lt; indicador titulo=\"Variação do PIB\" subtitulo=\"SCNT · Acum. 4 trimestres\" valor=\"2,7%\" data=\"3º tri 2025\" icone=\"💰\" &gt;}}\n{{&lt; indicador titulo=\"Desemprego\" subtitulo=\"PNAD Contínua\" valor=\"5,6%\" data=\"3º tri 2025\" icone=\"💼\" &gt;}}"
+    "text": "{% indicador titulo=“Inflação” subtitulo=“IPCA · Mensal” valor=“0,18%” data=“nov 2025” icone=“📉” %}\n{% indicador titulo=“Inflação” subtitulo=“INPC” valor=“0,03%” data=“nov 2025” icone=“📉” %}\n{% indicador titulo=“Variação do PIB” subtitulo=“SCNT · Acum. 4 trimestres” valor=“2,7%” data=“3º tri 2025” icone=“💰” %}\n{% indicador titulo=“Desemprego” subtitulo=“PNAD Contínua” valor=“5,6%” data=“3º tri 2025” icone=“💼” %}"
   },
   {
     "objectID": "Newsletter/indexNe.html",
