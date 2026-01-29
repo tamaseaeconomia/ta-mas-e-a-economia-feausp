@@ -4,132 +4,90 @@
     "href": "sobre.html",
     "title": "Integrantes",
     "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
+    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
   },
   {
     "objectID": "sobre.html#sobre-o-projeto",
     "href": "sobre.html#sobre-o-projeto",
     "title": "Integrantes",
-    "section": "Sobre o projeto",
-    "text": "Sobre o projeto\nEste projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
+    "section": "",
+    "text": "Este projeto tem como objetivo analisar temas econômicos e sociais de forma acessível, utilizando dados públicos e ferramentas de análise estatística em R. A iniciativa é desenvolvida de forma colaborativa por estudantes interessados em macroeconomia, políticas públicas e divulgação científica."
   },
   {
     "objectID": "sobre.html#nossa-equipe",
     "href": "sobre.html#nossa-equipe",
     "title": "Integrantes",
     "section": "Nossa equipe",
-    "text": "Nossa equipe\n\n\n\n\nPessoa 1\n\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\nPessoa 2\n\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira.\n\n\n\n\nPessoa 3\n\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\nPessoa 4\n\nEconomista em formação, com interesse em políticas públicas, desigualdade social e análise de dados aplicados à economia brasileira."
+    "text": "Nossa equipe\n\n\n\n\n\npessoa 1\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\npessoa 2\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R.\n\n\n\n\n\npessoa 3\nEstudante de economia com foco em macroeconomia, finanças públicas e visualização de dados utilizando R."
   },
   {
-    "objectID": "Newsletter/artigo5.html",
-    "href": "Newsletter/artigo5.html",
-    "title": "Anbima defende BC após questionamentos",
+    "objectID": "Newsletter/Artigo6.html",
+    "href": "Newsletter/Artigo6.html",
+    "title": "Título",
     "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
-  },
-  {
-    "objectID": "Newsletter/artigo3.html",
-    "href": "Newsletter/artigo3.html",
-    "title": "STF atende setor privado e dá mais um mês para distribuição de dividendos",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
-  },
-  {
-    "objectID": "Newsletter/artigo1.html",
-    "href": "Newsletter/artigo1.html",
-    "title": "Anbima defende BC após questionamentos",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTítulo\nblablablla\n\n\ndesenvolvimento\nbalbablablabal\n\n\nConclusão\nblabbla"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Início",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
-  },
-  {
-    "objectID": "index.html#sobre-o-projeto",
-    "href": "index.html#sobre-o-projeto",
-    "title": "Início",
-    "section": "Sobre o projeto",
-    "text": "Sobre o projeto\nTexto explicativo do projeto em si.\nAqui você descreve o objetivo, a motivação, o público-alvo e o tipo de conteúdo produzido.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
-  },
-  {
-    "objectID": "artigos/artigo1.html",
-    "href": "artigos/artigo1.html",
-    "title": "Título do Artigo 1",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
-  },
-  {
-    "objectID": "artigos/artigo1.html#introdução",
-    "href": "artigos/artigo1.html#introdução",
-    "title": "Título do Artigo 1",
-    "section": "Introdução",
-    "text": "Introdução\nEste é o texto completo do artigo. Aqui você desenvolve a ideia com mais profundidade, dados, gráficos e referências."
-  },
-  {
-    "objectID": "artigos/artigo1.html#desenvolvimento",
-    "href": "artigos/artigo1.html#desenvolvimento",
-    "title": "Título do Artigo 1",
-    "section": "Desenvolvimento",
-    "text": "Desenvolvimento\nTexto longo, análises, gráficos em R, tabelas, etc."
-  },
-  {
-    "objectID": "artigos/artigo1.html#conclusão",
-    "href": "artigos/artigo1.html#conclusão",
-    "title": "Título do Artigo 1",
-    "section": "Conclusão",
-    "text": "Conclusão\nSíntese dos resultados e implicações do estudo."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "email.html",
-    "href": "email.html",
-    "title": "Receba no E-mail",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarregando…"
-  },
-  {
-    "objectID": "indices/index.html",
-    "href": "indices/index.html",
-    "title": "Índices Econômicos",
-    "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
-  },
-  {
-    "objectID": "indices/index.html#painel-de-indicadores",
-    "href": "indices/index.html#painel-de-indicadores",
-    "title": "Índices Econômicos",
-    "section": "Painel de Indicadores",
-    "text": "Painel de Indicadores\n\n\n\n\n\n\n\nInflação\n\n\nIPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\nInflação\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\nVariação do PIB\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\nDesemprego\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
+    "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   },
   {
     "objectID": "Newsletter/artigo2.html",
     "href": "Newsletter/artigo2.html",
     "title": "Após fraudes bilionárias, Fazenda planeja novas frentes contra devedores",
     "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
+    "text": "O presidente Donald Trump bloqueou na sexta-feira (3) a aquisição, pela empresa americana de fotônica HieFo Corp, de ativos da Emcore, especialista em aeroespacial e defesa com sede em Nova Jersey, por US$ 3 milhões, citando preocupações de segurança nacional e relacionadas à China. Em uma ordem divulgada pela Casa Branca, Trump afirmou que a HieFo era “controlada por um cidadão da República Popular da China” e que a aquisição dos negócios da Emcore em 2024 levou o presidente a acreditar que a empresa poderia “tomar medidas que ameaçam prejudicar a segurança nacional dos Estados Unidos”. A ordem não nomeou o indivíduo nem detalhou as preocupações de Trump.\n“A transação está expressamente proibida”, disse Trump, ordenando que HieFo “se desfaça de todos os interesses e direitos sobre os ativos da Emcore, onde quer que estejam localizados”, dentro de 180 dias.\nO Comitê de Investimento Estrangeiro nos Estados Unidos identificou um risco à segurança nacional em sua investigação sobre o acordo, informou o Departamento do Tesouro após a ordem de Trump. A declaração não especificou qual o risco à segurança nacional. Não foi possível contatar imediatamente a HieFo e a Emcore para comentar o assunto, e elas não haviam publicado nenhuma manifestação em seus sites até o final da noite de sexta-feira.\nA Emcore, que tinha ações negociadas em bolsa na época do acordo e posteriormente se tornou privada, afirmou que a HieFo comprou seu negócio de chips e suas operações de fabricação de wafers de fosfeto de índio por US$ 2,92 milhões.\nNa época, a HieFo afirmou ter sido cofundada por Genzao Zhang, ex-vice-presidente de engenharia da Emcore, e Harry Moore, cujo perfil no LinkedIn o descreve como ex-diretor sênior de vendas da Emcore.\n(Reportagem de Kanishka Singh em Washington; Edição de William Mallard)"
   },
   {
-    "objectID": "Newsletter/artigo4.html",
-    "href": "Newsletter/artigo4.html",
-    "title": "Japão marca auditoria sanitária da carne bovina do Brasil para 2026",
+    "objectID": "indices/index.html",
+    "href": "indices/index.html",
+    "title": "Índices Econômicos",
     "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24"
+    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
+  },
+  {
+    "objectID": "indices/index.html#painel-de-indicadores",
+    "href": "indices/index.html#painel-de-indicadores",
+    "title": "Índices Econômicos",
+    "section": "",
+    "text": "IPCA · Mensal\n\n\n0,18%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nINPC\n\n\n0,03%\n\n\nnov/2025\n\n\n\n\n\n\n\n\nAcumulado 4 trimestres\n\n\n2,7%\n\n\n3º tri/2025\n\n\n\n\n\n\n\n\nPNAD Contínua\n\n\n5,6%\n\n\n3º tri/2025"
+  },
+  {
+    "objectID": "email.html",
+    "href": "email.html",
+    "title": "Receba no E-mail",
+    "section": "",
+    "text": "Carregando…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Início",
+    "section": "",
+    "text": "Nome da Pessoa 1 Mini resumo sobre a pessoa 1, formação, área de atuação e vínculo com o projeto.\n\n\n Nome da Pessoa 2 Mini resumo sobre a pessoa 2, formação, área de atuação e vínculo com o projeto.\n\n\n\n\nTexto explicativo do projeto em si.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
+  },
+  {
+    "objectID": "index.html#sobre-o-projeto",
+    "href": "index.html#sobre-o-projeto",
+    "title": "Início",
+    "section": "",
+    "text": "Texto explicativo do projeto em si.\nO projeto nasce da necessidade de traduzir evidências, dados e análises econômicas em linguagem acessível, mantendo rigor técnico e compromisso público."
+  },
+  {
+    "objectID": "Newsletter/artigo1.html",
+    "href": "Newsletter/artigo1.html",
+    "title": "Anbima defende BC após questionamentos",
+    "section": "",
+    "text": "Título\nblablablla\n\n\ndesenvolvimento\nbalbablablabal\n\n\nConclusão\nblabbla"
   },
   {
     "objectID": "Newsletter/indexNe.html",
     "href": "Newsletter/indexNe.html",
     "title": "Newsletter",
     "section": "",
-    "text": "Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n    S&P 500: -0.4%\n\n    Selic: 10.75%\n\n    Ibovespa: +1.2%\n\n    Dólar: R$ 5,24\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnbima defende BC após questionamentos\n\n\nBC\n\n\nO ouro ganhou espaço na China como reserva de segurança não apenas pelo Banco Central, mas por instituições e famílias, em demanda refletida por fortes fluxos de entrada em fundos ETF.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nAnbima defende BC após questionamentos\n\n\nBC\n\n\nO ouro ganhou espaço na China como reserva de segurança não apenas pelo Banco Central, mas por instituições e famílias, em demanda refletida por fortes fluxos de entrada em fundos ETF.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nApós fraudes bilionárias, Fazenda planeja novas frentes contra devedores\n\n\nfraudes\n\n\nA desarticulação de esquemas bilionários de fraude fiscal nos últimos meses passou a orientar uma nova fase de atuação do governo federal a partir de 2026, voltada ao enfrentamento de grandes devedores estruturados e à repressão a práticas ilícitas que distorcem mercados e comprometem a arrecadação.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nJapão marca auditoria sanitária da carne bovina do Brasil para 2026\n\n\nBC\n\n\nO governo do Japão realizará uma auditoria para avaliar o sistema sanitário de carne bovina do Brasil em março de 2026, como parte do processo para abertura do mercado japonês ao produto brasileiro, informou o Ministério da Agricultura nesta sexta-feira (26).\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nSTF atende setor privado e dá mais um mês para distribuição de dividendos\n\n\nstf\n\n\nO ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), deu mais um mês para empresas aprovarem a distribuição de dividendos de 2025 sem perda da isenção do Imposto de Renda (IR), no âmbito da lei que ampliou a faixa de isenção do imposto para quem ganha até R$ 5 mil.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Anbima defende BC após questionamentos\n\n\nBC\n\n\nO ouro ganhou espaço na China como reserva de segurança não apenas pelo Banco Central, mas por instituições e famílias, em demanda refletida por fortes fluxos de entrada em fundos ETF.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nAnbima defende BC após questionamentos\n\n\nBC\n\n\nO ouro ganhou espaço na China como reserva de segurança não apenas pelo Banco Central, mas por instituições e famílias, em demanda refletida por fortes fluxos de entrada em fundos ETF.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nApós fraudes bilionárias, Fazenda planeja novas frentes contra devedores\n\n\nfraudes\n\n\nA desarticulação de esquemas bilionários de fraude fiscal nos últimos meses passou a orientar uma nova fase de atuação do governo federal a partir de 2026, voltada ao enfrentamento de grandes devedores estruturados e à repressão a práticas ilícitas que distorcem mercados e comprometem a arrecadação.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nJapão marca auditoria sanitária da carne bovina do Brasil para 2026\n\n\nBC\n\n\nO governo do Japão realizará uma auditoria para avaliar o sistema sanitário de carne bovina do Brasil em março de 2026, como parte do processo para abertura do mercado japonês ao produto brasileiro, informou o Ministério da Agricultura nesta sexta-feira (26).\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nSTF atende setor privado e dá mais um mês para distribuição de dividendos\n\n\nstf\n\n\nO ministro Kassio Nunes Marques, do STF (Supremo Tribunal Federal), deu mais um mês para empresas aprovarem a distribuição de dividendos de 2025 sem perda da isenção do Imposto de Renda (IR), no âmbito da lei que ampliou a faixa de isenção do imposto para quem ganha até R$ 5 mil.\n\n\n\n\n\n30/12/2025\n\n\nJoão , Maria\n\n\n\n\n\n\n\n\n\n\n\n\nTítulo\n\n\nSubtitulo\n\n\nDescrição\n\n\n\n\n\n31/12/2026\n\n\nx , y\n\n\n\n\n\nSem itens correspondentes"
   }
 ]
